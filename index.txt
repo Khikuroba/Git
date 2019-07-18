@@ -1,2 +1,6 @@
 fix issue3
+<<<<<<< HEAD
 fix again
+=======
+????????
+>>>>>>> issue3
